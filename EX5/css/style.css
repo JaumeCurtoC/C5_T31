@@ -1,0 +1,12 @@
+.imagesPeq{
+    width: 150px;
+    height: 100px;
+}
+#imgGrande{
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
